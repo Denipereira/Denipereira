@@ -1,4 +1,7 @@
 <h1 style="color: blue;">Olá!! Me chamo Daniel Borges Pereira dos Anjos</h1> 
+<p>Sou estudante de programação e tecnologia a mais de 2 anos, me indentifiquei totalmente com a área e pretendo seguir carreira no desenvolvimento <b>Full-Stack</b><br>
+Atuo no desenvolvimento das interfaces e das aplicações <b>Web</b>, <b>Mobile</b> e <b>Desktop</b>. Focando na experiência do usuário
+</p>
 <div>
   <a href="https://github.com/Denipereira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Denipereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -8,15 +11,15 @@
 
 <div style="display: inline-block">
 <hr>
-  <img width="50" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="50" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="50" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="50" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img width="50" heigth="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
-  <img width="50" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img width="50" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="50" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />   
-  <img width="50" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />                  
+  <img style="margin-right: 20;" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="40" heigth="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
+  <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />   
+  <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />                  
 </div>        
 
 <br>
