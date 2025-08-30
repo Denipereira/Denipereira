@@ -1,4 +1,4 @@
-<h1 style="color: blue;">Olá!! Me chamo Daniel borges Pereira dos Anjos</h1> 
+<h1 style="color: blue;">Olá!! Me chamo Daniel Borges Pereira dos Anjos</h1> 
 <div>
   <a href="https://github.com/Denipereira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Denipereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
