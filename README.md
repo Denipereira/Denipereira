@@ -1,3 +1,4 @@
+<html lang="pt-br">
 <h1 style="color: blue;">Olá!! Me chamo Daniel Borges Pereira dos Anjos</h1> 
 <p>Sou estudante de programação e tecnologia a mais de 2 anos, me indentifiquei totalmente com a área e pretendo seguir carreira no desenvolvimento <b>Full-Stack</b><br>
 Atuo no desenvolvimento das interfaces e das aplicações <b>Web</b>, <b>Mobile</b> e <b>Desktop</b>. Focando na experiência do usuário
